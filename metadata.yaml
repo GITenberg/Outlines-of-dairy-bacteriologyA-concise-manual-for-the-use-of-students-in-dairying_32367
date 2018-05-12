@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '35808'
     url: http://www.gutenberg.org/2009/agents/35808
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32367#Outlines-of-dairy-bacteriologyA-concise-manual-for-the-use-of-students-in-dairying
 gutenberg_issued: '2010-05-14'
 gutenberg_type: Text
 identifiers:
