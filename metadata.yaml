@@ -32,6 +32,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QR'
 - !lcsh 'Dairy microbiology'
+- GITenberg
 tableOfContents: Structure, growth and distribution of bacteria -- Methods of studying
   bacteria -- Contamination of milk -- Infection of milk with pathogenic bacteria
   -- Fermentations of milk -- Preservation of milk -- Bacteria and butter making --
